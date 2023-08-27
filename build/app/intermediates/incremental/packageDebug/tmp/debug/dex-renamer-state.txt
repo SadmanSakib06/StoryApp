@@ -1,0 +1,4 @@
+#Sun Aug 27 15:33:03 BDT 2023
+base.0=/Users/mac/Documents/Study/AndroidStudioProjects/story/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
